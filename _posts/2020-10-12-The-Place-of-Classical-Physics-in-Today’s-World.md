@@ -5,7 +5,7 @@ author: "Kaushik Shivakumar (’20)"
 print_publication: true
 tags: issue3
 categories: Perspectives
-related_image: /imgs/pet_mri.png, /imgs/pasta.png, /imgs/plane_wing.png
+related_image: /imgs/pet_mri.png, /imgs/pasta.png, /imgs/vacuum.png, /imgs/plane_wing.png
 ---
 
 *At a time when so much hype surrounds advances in modern physics, it is important to recognize how much potential the physics we learn in school still has.*
@@ -43,7 +43,7 @@ There are still areas of classical physics that we don’t know much about but s
 
 Classical physics has a plethora of practical applications, providing businesses fuel for innovation. For example, the Dyson vacuum cleaner company was the first to successfully create, market, and sell a bagless vacuum cleaner by using a technique called cyclonic separation — a technique invented a century earlier, in 1885 — but just cleverly applied to an everyday problem [4]. Another example is in aircraft design: extensive computational and real-world wind tunnel testing based on a thorough understanding of fluid dynamics is always conducted before the creation of new aircraft, and engineering innovations such as winglets come about because of our ability to harness physics.
 
-
+| ![](/imgs/vacuum.png) |
 | ![](/imgs/plane_wing.png) | 
 |:--:| 
 |The Dyson vacuum cleaner [4] and aircraft winglets [1] are both examples of how a detailed understanding of classical physics is incredibly useful to humans.
